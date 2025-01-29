@@ -3,7 +3,7 @@
 Welcome to the Recipes Repository! This repository is a collection of delicious recipes from various cuisines. Whether you're a novice cook or an experienced chef, you'll find something here to satisfy your culinary curiosity.
 
 ## Features
--   A diverse range of recipes: From appetizers to desserts, this repository covers a wide variety of dishes.
+-   A diverse range of recipes: this repository covers a wide variety of dishes.
 
 -   Step-by-step instructions: Each recipe comes with clear and concise instructions to ensure you can follow along with ease.
 
